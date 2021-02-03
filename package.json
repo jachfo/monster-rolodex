@@ -1,7 +1,7 @@
 {
   "name": "monster-roladex",
   "version": "0.1.0",
-  "homepage": "https://jachfo.github.io/monsters-rolodex",
+  "homepage": "https://jachfo.github.io/monster-rolodex/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
